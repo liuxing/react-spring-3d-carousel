@@ -1,9 +1,9 @@
 {
-  "name": "react-spring-3d-carousel",
-  "version": "1.2.0",
+  "name": "@liuxing/react-spring-3d-carousel",
+  "version": "1.2.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gutiguy/react-spring-3d-carousel"
+    "url": "git+https://github.com/liuxing/react-spring-3d-carousel.git"
   },
   "description": "A 3D Carousel component for images built with React and utilizing react-spring for controlling slide transitions.",
   "main": "dist/bundle.js",
@@ -16,7 +16,7 @@
     "carousel",
     "react"
   ],
-  "author": "Guy Gutman<contact@gutiguy.com>",
+  "author": "Xing Liu <hi@liuxing.io>",
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.7",
@@ -51,5 +51,9 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/liuxing/react-spring-3d-carousel/issues"
+  },
+  "homepage": "https://github.com/liuxing/react-spring-3d-carousel#readme"
 }
